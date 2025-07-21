@@ -26,6 +26,7 @@
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-3E4E88?style=for-the-badge&logoColor=white)
 ![Multiplayer.app](https://img.shields.io/badge/Multiplayer.app-4F46E5?style=for-the-badge&logoColor=white)
