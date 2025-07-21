@@ -26,3 +26,4 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-3E4E88?style=for-the-badge&logoColor=white)
