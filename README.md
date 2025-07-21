@@ -30,3 +30,4 @@
 ![draw.io](https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
 ![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-3E4E88?style=for-the-badge&logoColor=white)
 ![Multiplayer.app](https://img.shields.io/badge/Multiplayer.app-4F46E5?style=for-the-badge&logoColor=white)
+![PuTTY](https://img.shields.io/badge/PuTTY-FF9900?style=for-the-badge&logo=putty&logoColor=black)
