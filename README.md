@@ -13,3 +13,4 @@
 ![Gin](https://img.shields.io/badge/Gin_Framework-00B386?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Mockoon](https://img.shields.io/badge/Mockoon-FF4785?style=for-the-badge&logo=mockoon&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
