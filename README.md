@@ -34,3 +34,4 @@
 ![Multiplayer.app](https://img.shields.io/badge/Multiplayer.app-4F46E5?style=for-the-badge&logoColor=white)
 ![PuTTY](https://img.shields.io/badge/PuTTY-FF9900?style=for-the-badge&logo=putty&logoColor=black)
 ![MS SQL](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
