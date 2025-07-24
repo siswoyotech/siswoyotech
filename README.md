@@ -44,3 +44,4 @@
 ![PlantUML](https://img.shields.io/badge/PlantUML-000000?style=for-the-badge&logo=plantuml&logoColor=white)
 ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
