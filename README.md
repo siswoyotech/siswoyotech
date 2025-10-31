@@ -49,6 +49,7 @@
 ![Vi](https://img.shields.io/badge/Vi-019733?style=for-the-badge&logo=vim&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
 ![SSH](https://img.shields.io/badge/SSH-2C2D72?style=for-the-badge)
+![Nano](https://img.shields.io/badge/Nano-2C2D72?style=for-the-badge&logo=gnubash&logoColor=white)
 
 ## Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
