@@ -52,6 +52,7 @@
 ![Nano](https://img.shields.io/badge/Nano-2C2D72?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Rolldown](https://img.shields.io/badge/Rolldown-F28C28?style=for-the-badge&logoColor=white)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 
 ## Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
